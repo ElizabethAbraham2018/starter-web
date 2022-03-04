@@ -17,3 +17,7 @@ Deployment can be on any web serer or evern local file system
 
 ## How to Contribute
 
+### Copyright
+
+2022 Git-Training
+
