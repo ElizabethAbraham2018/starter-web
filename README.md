@@ -17,6 +17,8 @@ Deployment can be on any web serer or evern local file system
 
 ## How to Contribute
 
+Please fork this repository and issue Pull Requests for review
+
 ### Copyright
 
 2022 Git-Training
