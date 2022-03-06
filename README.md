@@ -21,5 +21,5 @@ Please fork this repository and issue Pull Requests for review
 
 ### Copyright
 
-2022 Git-Training All rights reserved as examole for STASH
+2022 Git-Training All rights reserved as example for STASH & emergency fix after stash
 
